@@ -105,7 +105,7 @@ terms_by_country = {
    'Malaysia': ['bhd.', 'sdn. bhd.'],
    'Mexico': ['s.a.', 's. de. r.l.', 's. en c.', 's.a.b.', 's.a.p.i.'],
    'Mongolia': ['xk', 'xxk'],
-   'Netherlands': ['v.o.f.', 'c.v.', 'b.v.', 'n.v.'],
+   'Netherlands': ['v.o.f.', 'c.v.', 'b.v.', 'n.v.', 'bv'],
    'New Zealand': ['tapui', 'ltd', 'limited'],
    'Nigeria': ['gte.', 'plc', 'ltd.', 'ultd.'],
    'Norway': ['asa', 'as', 'ans', 'ba', 'bl', 'da', 'etat', 'fkf', 'hf', 'iks', 'kf',
